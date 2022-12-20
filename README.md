@@ -1,1 +1,1 @@
-# Solo-speed-contests
+This repository contains the solutions of the solo speed contests that I have participated live or virtually. 
