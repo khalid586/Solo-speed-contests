@@ -71,7 +71,7 @@ void solve(int t){
                rep(k,0,10){
                     bool one = 0 , two = 0 , three = 0;
                     rep(m,0,n){
-                         if(one and two) { if(s[m] - '0' == k) three = 1;}
+                         if(one and two) { if(s[m] - '0' == k){ three = 1; break;}}
                          else if(one){ if(s[m] - '0' == j) two = 1;}
                          else if(s[m] - '0' == i) one = 1;
                     }
@@ -92,4 +92,3 @@ int32_t main()
      }
      return 0;
 }
-
