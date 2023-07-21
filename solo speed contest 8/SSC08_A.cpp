@@ -63,46 +63,19 @@ void FastIO()
 const int N = 1e6+7;
 
 
-
-int moveX[] = {1,0};
-int moveY[] = {0,1};
-
-char g[8][8];
-int h,w;
-
-bool Valid(int a, int b){
-     return (a < 0 or b < 0 or a >= h or b >= w)? 0 : 1;
-}
-bool ok = 1;
-void dfs(int x, int y){
-     if(g[x][y] == '.') return;
-     g[x][y] = '.';
-     
-     if(!ok) return;
-
-     if(Valid(x+1 , y) and Valid(x,y+1)){
-          if(g[x+1][y] == '#' and g[x][y+1] == '#')
-              { ok = 0; return;}
-     }
-      
-     rep(i,0,2){
-          if(Valid(x+moveX[i] , y + moveY[i]))
-               dfs(x+moveX[i] , y + moveY[i]);
-     }
-}
-
 // solution starts here
-void solve(int t){ 
-     cin >> h >> w;
-     rep(i,0,h)
-          rep(j,0,w) cin >> g[i][j];
-
-     dfs(0,0);
+void solve(int t){ // optimized solution
+     int h,w; cin >> h >> w;
+     int  cnt = 0;
 
      rep(i,0,h)
-          rep(j,0,w) if(g[i][j] == '#'){ ok = 0; break;}
+          rep(j,0,w){
+               char a; cin >> a;
+               cnt += a == '#'; 
+          }
 
-     cout << (ok ? "Possible\n":"Impossible\n");
+     // It has to be exactly h+w-1 number of moves needed to reach from top left to bottom right          
+     cout << (cnt == h+w-1 ? "Possible\n" : "Impossible\n");
 }    
 
 int32_t main()
@@ -116,4 +89,3 @@ int32_t main()
      }
      return 0;
 }
-
