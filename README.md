@@ -1,4 +1,6 @@
-### <img src = "assets/cses2.jpg" align = "center" width = "50px" height = "40px"> Solo Speed Contest
+![](assets/banner%20gif.gif)
+
+### <img align = "center" src = "assets/mix.png" width = "45px" height = "30px"> Solo Speed Contest
 > **I have participated in several online solo speed contest. Below I have mentioned some of them.** 
 
 |_____|Contest [Github]|Solved|
