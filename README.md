@@ -13,7 +13,7 @@
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 78**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2078)|**03**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 77**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2077)|**04**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 8**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%208)|**02**|
-|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 5**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%205)|**02**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 5**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%205)|**03**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 4**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%204)|**04**|
 
 ### Want to improve problem solving speed?
