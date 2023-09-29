@@ -13,8 +13,8 @@
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 78**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2078)|**03**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 77**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2077)|**04**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 8**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%208)|**02**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 5**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%205)|**02**|
 |<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 4**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%204)|**04**|
-
 
 ### Want to improve problem solving speed?
 > <img src = "assets/online%20judge.PNG" align = "center" width = "30px" height = "20px"> **Solo speed contest <br><br>Solo speed contests are arranged by Bangladesh CP Server , a discord server of competitive programmers of Bangladesh.They organize these 1 hour long speed contests to improve problem solving speed of programmers.<br><br> You will get the contests [here](https://vjudge.net/contest#category=all&running=0&title=solo%20speed&owner=ICPC_Bot). <br><br> Besides these, they also organize codeforces round editorial session rigth after a round. You will find them in their youtube channel.
